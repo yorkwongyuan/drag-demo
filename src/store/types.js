@@ -1,0 +1,20 @@
+export default {
+  SETCOMPONENTDATA: 'addComponentData',
+  SETCURCOMPONENT: 'setCurComponent',
+  SETSHAPESTYLE: 'setShapeStyle',
+  SHOWCONTEXTMENU: 'showContextMenu',
+  HIDECONTEXTMENU: 'hideContextMenu',
+  SETCLICKCOMPONENTSTATUS: 'setClickComponentStatus',
+  DOWNCOMPONENT: 'downComponent',
+  UPCOMPONENT: 'upComponent',
+  BOTTOMCOMPONENT: 'bottomComponent',
+  TOPCOMPONENT: 'topComponent',
+  DELETECOMPONENT: 'deleteComponent',
+  SETRECORDSNAPSHOT: 'setRecordSnapShot',
+  UNDO: 'unDo',
+  REDO: 'reDo',
+  SETSHAPESINGLESTYLE: 'setShapeSingleStyle',
+  SETCANVASSTYLEDATA: 'setCanvasStyleData',
+  SETEDITMODE: 'setEditMode',
+  GETEDITOR: 'getEditor'
+}
